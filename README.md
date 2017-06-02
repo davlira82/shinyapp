@@ -7,7 +7,6 @@ The repository consists of several files:
 - CourseProjectSlides.html
 - CourseProjectSlides.Rmd
 - README.md
-- rsconnect
 - server.R
 - snapshot.png
 - ui.R
